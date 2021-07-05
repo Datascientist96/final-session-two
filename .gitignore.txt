@@ -1,4 +1,5 @@
 hgrb word file ignore
 New Text Document
-product.csv
+product.csv.txt
 folder to be ignored/
+*.docx
