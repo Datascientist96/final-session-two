@@ -1,3 +1,4 @@
 hgrb word file ignore
 New Text Document
 product.csv
+folder to be ignored/
